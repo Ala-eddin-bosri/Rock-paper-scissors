@@ -1,0 +1,20 @@
+body{
+    
+    background-image: url(https://image.winudf.com/v2/image/Y29tLmdtcy5yb2NrLnBhcGVyLmJhdHRsZS5mcmVlX3NjcmVlbl82XzE1MTY2MzE2NzhfMDkx/screen-6.jpg?h=800&fakeurl=1&type=.jpg); ;
+    background-size: contain;
+}
+.gg{
+
+        text-align: center;
+        background-color: #070907;
+        color: white;
+        padding: 15px 32px;
+        font-size: 30px;
+        margin: 600px;
+        border: 2px solid black;
+        border-radius: 15px;
+        
+    
+}
+
+

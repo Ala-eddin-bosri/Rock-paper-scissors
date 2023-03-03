@@ -1,0 +1,63 @@
+body {
+    text-align: center;
+    display: flex;
+    min-height: 100vh;
+    background-image:url(https://marketplace.canva.com/EAE98IQlC5E/1/0/1600w/canva-purple-simple-gaming-background-futuristic-game-zone-desktop-wallpaper-iC5A8PGB4t0.jpg) ;
+}
+
+  .container {
+      margin: 0 auto;
+      align-items: center;
+      border-radius: 20px;
+      padding: 25px 50px;
+      width: 80vw;
+      font-size: 1.1em
+      
+  }
+  .action {
+    max-width: 800px;
+    padding: 40px 0;
+    margin: 0 auto;
+    background-color: aquamarine;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 20px;
+  }
+  .options {
+    flex: 1 1 30%;
+    border-radius: 50%;
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+    width: 100%;
+    max-width: 120px;
+  }
+  .display-moves {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-evenly;
+  }
+  .move {
+    border-radius: 50%;
+    border-width: 4px;
+    border-style: solid;
+    border-color: black;
+    padding: 10px;
+  }
+  .separator {
+    font-size: 8em;
+  }
+  .pp {
+    display: flex;
+    font-size: 1.7em;
+    color: white;
+    text-align: center;
+  }
+
+  .title{
+    font-style: italic
+  }
